@@ -1,4 +1,3 @@
-
 #include "lib.h"
 bool conversione (char* i){
     if((*i>='a')&&(*i<='z')){
